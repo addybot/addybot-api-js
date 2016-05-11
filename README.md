@@ -11,11 +11,11 @@ npm install --save addybot-api
 ``` 
 
 ```javascript
-const addybot = require('addybot-api')
-const getAd = addybot(API_TOKEN) // Checkout your cabinet
+var addybot = require('addybot-api');
+var getAd = addybot(API_TOKEN); // Checkout your cabinet
 
 getAd(userId, "english").then(ad => {
-  let message = ad.text + '\n' + ad.uri;
+  var message = ad.text + '\n' + ad.uri;
   // Send this message to user
 });
 ```
