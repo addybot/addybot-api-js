@@ -1,7 +1,7 @@
 Introduction
 -------------------
 
-AddyBot is a first global advertising platform created specialy for chatbots. As most of the chatbots are written in Node.js, we assumed it would be great to have an npm module to quickly integrate your bot with the our service.
+AddyBot is a first global advertising platform created specially for chatbots. As most of the chatbots are written in Node.js, we assumed it would be great to have an npm module to quickly integrate your bot with the our service.
 
 Quick Start
 -------------------
