@@ -1,0 +1,29 @@
+{
+  "name": "addybot-api",
+  "description": "Node.js module for AddyBot API",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/addybot/addybot-api-js.git"
+  },
+  "main": "./lib/addybot.js",
+  "keywords": [
+    "bot",
+    "nodejs",
+    "node.js",
+    "addybot",
+    "advicetisign",
+    "api"
+  ],
+  "author": "Aleksey Fomkin <aleksey.fomkin@gmail.com>",
+  "contributors": [
+    {
+      "name": "Aleksey Fomkin",
+      "email": "aleksey.fomkin@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "promise": "^7.1.1"
+  }
+}
