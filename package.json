@@ -1,7 +1,7 @@
 {
   "name": "addybot-api",
   "description": "Node.js module for AddyBot API",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/addybot/addybot-api-js.git"
